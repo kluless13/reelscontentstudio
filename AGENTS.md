@@ -64,6 +64,10 @@ If a tool is missing, tell the user which MCP to connect rather than working aro
 8. **Verify** — `npm run typecheck`, render stills at every beat and annotation, look at them,
    fix, then render the MP4 and spot-check frames from the file itself.
 9. **Hand off** — send the MP4, list what's in it, what's sourced where, and anything to watch.
+10. **Ship via PR** — work on a branch (`reel/NN-topic`, `kit/<name>`, `docs/<topic>`, `fix/<what>`),
+    never push to `main`. Open a PR using the template in `.github/pull_request_template.md`
+    (attach stills, list sources, tick the checklist) and update the docs a technique touches —
+    see `CONTRIBUTING.md`.
 
 ## Repo map
 
