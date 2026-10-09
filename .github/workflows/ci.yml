@@ -1,0 +1,51 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Guard against files that must never be committed
+        run: |
+          bad=$(git ls-files | grep -E '(^|/)\.env($|\.)|^public/news/.+\.(png|jpe?g|webp)$|\.(mp4|mov)$|^references/|^out/' | grep -v '^\.env\.example$' || true)
+          if [ -n "$bad" ]; then
+            echo "These files must not be committed (keys, article screenshots, videos, renders):"
+            echo "$bad"
+            exit 1
+          fi
+          if git grep -nE 'sk_[A-Za-z0-9]{20,}' -- . ':!package-lock.json'; then
+            echo "Looks like an API key is committed. Remove it and rotate the key."
+            exit 1
+          fi
+
+      - name: Test render (template + kit demo)
+        run: |
+          npx remotion browser ensure
+          npx remotion still TemplateReel out/template.png --frame=150
+          npx remotion still KitDemo out/kit.png --frame=545
+
+      - name: Upload test frames
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-frames
+          path: out/*.png
+          if-no-files-found: ignore

@@ -90,6 +90,13 @@ scripts/                  tts, music, sfx, FRED download, news capture, reel scr
 
 Full rules: [docs/STYLE.md](docs/STYLE.md).
 
+## Contributing
+
+Work happens on branches and lands through pull requests — see [CONTRIBUTING.md](CONTRIBUTING.md)
+for branch names, what a good PR includes, and how to review. Pitch new reels with the
+**Reel idea** issue template. CI runs a typecheck, a guard against keys/screenshots/videos, and a
+test render on every PR.
+
 ## Troubleshooting
 
 **Render fails with `Target closed` / `icudtl.dat not found` (macOS).** The repo is inside a
