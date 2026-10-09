@@ -1,0 +1,13 @@
+node_modules/
+out/
+.env
+.env.*
+!.env.example
+.DS_Store
+scripts/__pycache__/
+# Third-party article screenshots: re-capture locally (npm run news:bonds), don't redistribute.
+public/news/*
+!public/news/README.md
+# Downloaded reference videos belong to their creators; links live in docs/REFERENCES.md.
+references/
+reference videos/

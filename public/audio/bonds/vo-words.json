@@ -1,0 +1,532 @@
+[
+ {
+  "text": "America's",
+  "start": 0.0,
+  "end": 0.476
+ },
+ {
+  "text": "most",
+  "start": 0.534,
+  "end": 0.697
+ },
+ {
+  "text": "important",
+  "start": 0.731,
+  "end": 1.115
+ },
+ {
+  "text": "interest",
+  "start": 1.149,
+  "end": 1.486
+ },
+ {
+  "text": "rate",
+  "start": 1.544,
+  "end": 1.846
+ },
+ {
+  "text": "just",
+  "start": 2.067,
+  "end": 2.345
+ },
+ {
+  "text": "hit",
+  "start": 2.392,
+  "end": 2.519
+ },
+ {
+  "text": "a",
+  "start": 2.566,
+  "end": 2.601
+ },
+ {
+  "text": "twenty-four-year",
+  "start": 2.659,
+  "end": 3.367
+ },
+ {
+  "text": "high.",
+  "start": 3.425,
+  "end": 3.843
+ },
+ {
+  "text": "To",
+  "start": 4.191,
+  "end": 4.284
+ },
+ {
+  "text": "see",
+  "start": 4.342,
+  "end": 4.458
+ },
+ {
+  "text": "why",
+  "start": 4.493,
+  "end": 4.609
+ },
+ {
+  "text": "that",
+  "start": 4.667,
+  "end": 4.795
+ },
+ {
+  "text": "matters,",
+  "start": 4.853,
+  "end": 5.271
+ },
+ {
+  "text": "rewind",
+  "start": 5.387,
+  "end": 5.724
+ },
+ {
+  "text": "to",
+  "start": 5.77,
+  "end": 5.817
+ },
+ {
+  "text": "nineteen",
+  "start": 5.898,
+  "end": 6.316
+ },
+ {
+  "text": "eighty-one.",
+  "start": 6.374,
+  "end": 6.978
+ },
+ {
+  "text": "Back",
+  "start": 7.326,
+  "end": 7.546
+ },
+ {
+  "text": "then,",
+  "start": 7.593,
+  "end": 7.802
+ },
+ {
+  "text": "the",
+  "start": 7.825,
+  "end": 7.895
+ },
+ {
+  "text": "ten-year",
+  "start": 7.941,
+  "end": 8.266
+ },
+ {
+  "text": "Treasury",
+  "start": 8.324,
+  "end": 8.754
+ },
+ {
+  "text": "yield,",
+  "start": 8.824,
+  "end": 9.218
+ },
+ {
+  "text": "what",
+  "start": 9.439,
+  "end": 9.601
+ },
+ {
+  "text": "the",
+  "start": 9.636,
+  "end": 9.706
+ },
+ {
+  "text": "U.S.",
+  "start": 9.764,
+  "end": 10.008
+ },
+ {
+  "text": "pays",
+  "start": 10.043,
+  "end": 10.286
+ },
+ {
+  "text": "to",
+  "start": 10.333,
+  "end": 10.379
+ },
+ {
+  "text": "borrow",
+  "start": 10.437,
+  "end": 10.681
+ },
+ {
+  "text": "for",
+  "start": 10.739,
+  "end": 10.844
+ },
+ {
+  "text": "a",
+  "start": 10.89,
+  "end": 10.913
+ },
+ {
+  "text": "decade,",
+  "start": 10.971,
+  "end": 11.482
+ },
+ {
+  "text": "hit",
+  "start": 11.703,
+  "end": 11.865
+ },
+ {
+  "text": "nearly",
+  "start": 11.923,
+  "end": 12.202
+ },
+ {
+  "text": "sixteen",
+  "start": 12.284,
+  "end": 12.725
+ },
+ {
+  "text": "percent.",
+  "start": 12.783,
+  "end": 13.34
+ },
+ {
+  "text": "The",
+  "start": 13.805,
+  "end": 13.921
+ },
+ {
+  "text": "Fed",
+  "start": 13.979,
+  "end": 14.141
+ },
+ {
+  "text": "was",
+  "start": 14.188,
+  "end": 14.292
+ },
+ {
+  "text": "crushing",
+  "start": 14.374,
+  "end": 14.815
+ },
+ {
+  "text": "inflation.",
+  "start": 14.873,
+  "end": 15.5
+ },
+ {
+  "text": "Then",
+  "start": 16.045,
+  "end": 16.278
+ },
+ {
+  "text": "came",
+  "start": 16.336,
+  "end": 16.545
+ },
+ {
+  "text": "a",
+  "start": 16.579,
+  "end": 16.603
+ },
+ {
+  "text": "forty-year",
+  "start": 16.661,
+  "end": 17.102
+ },
+ {
+  "text": "slide...",
+  "start": 17.172,
+  "end": 17.752
+ },
+ {
+  "text": "down,",
+  "start": 18.298,
+  "end": 18.774
+ },
+ {
+  "text": "and",
+  "start": 18.832,
+  "end": 19.006
+ },
+ {
+  "text": "down...",
+  "start": 19.064,
+  "end": 19.54
+ },
+ {
+  "text": "until",
+  "start": 19.679,
+  "end": 19.923
+ },
+ {
+  "text": "twenty",
+  "start": 19.981,
+  "end": 20.26
+ },
+ {
+  "text": "twenty,",
+  "start": 20.318,
+  "end": 20.805
+ },
+ {
+  "text": "when",
+  "start": 20.991,
+  "end": 21.154
+ },
+ {
+  "text": "the",
+  "start": 21.189,
+  "end": 21.258
+ },
+ {
+  "text": "pandemic",
+  "start": 21.293,
+  "end": 21.688
+ },
+ {
+  "text": "sent",
+  "start": 21.746,
+  "end": 21.943
+ },
+ {
+  "text": "it",
+  "start": 22.001,
+  "end": 22.071
+ },
+ {
+  "text": "to",
+  "start": 22.106,
+  "end": 22.175
+ },
+ {
+  "text": "half",
+  "start": 22.245,
+  "end": 22.442
+ },
+ {
+  "text": "a",
+  "start": 22.5,
+  "end": 22.524
+ },
+ {
+  "text": "percent.",
+  "start": 22.582,
+  "end": 23.104
+ },
+ {
+  "text": "Then",
+  "start": 23.743,
+  "end": 23.94
+ },
+ {
+  "text": "inflation",
+  "start": 23.987,
+  "end": 24.416
+ },
+ {
+  "text": "came",
+  "start": 24.474,
+  "end": 24.672
+ },
+ {
+  "text": "back.",
+  "start": 24.706,
+  "end": 25.113
+ },
+ {
+  "text": "And",
+  "start": 25.658,
+  "end": 25.809
+ },
+ {
+  "text": "so",
+  "start": 25.867,
+  "end": 25.972
+ },
+ {
+  "text": "did",
+  "start": 26.03,
+  "end": 26.134
+ },
+ {
+  "text": "rates.",
+  "start": 26.192,
+  "end": 26.657
+ },
+ {
+  "text": "Today",
+  "start": 26.819,
+  "end": 27.086
+ },
+ {
+  "text": "it's",
+  "start": 27.121,
+  "end": 27.237
+ },
+ {
+  "text": "five",
+  "start": 27.284,
+  "end": 27.493
+ },
+ {
+  "text": "point",
+  "start": 27.539,
+  "end": 27.737
+ },
+ {
+  "text": "three",
+  "start": 27.783,
+  "end": 27.992
+ },
+ {
+  "text": "percent,",
+  "start": 28.039,
+  "end": 28.526
+ },
+ {
+  "text": "the",
+  "start": 28.689,
+  "end": 28.782
+ },
+ {
+  "text": "highest",
+  "start": 28.84,
+  "end": 29.118
+ },
+ {
+  "text": "since",
+  "start": 29.153,
+  "end": 29.374
+ },
+ {
+  "text": "two",
+  "start": 29.409,
+  "end": 29.548
+ },
+ {
+  "text": "thousand",
+  "start": 29.606,
+  "end": 29.919
+ },
+ {
+  "text": "two.",
+  "start": 29.978,
+  "end": 30.384
+ },
+ {
+  "text": "Why",
+  "start": 30.732,
+  "end": 30.918
+ },
+ {
+  "text": "care?",
+  "start": 30.976,
+  "end": 31.371
+ },
+ {
+  "text": "Mortgages",
+  "start": 31.719,
+  "end": 32.195
+ },
+ {
+  "text": "key",
+  "start": 32.265,
+  "end": 32.427
+ },
+ {
+  "text": "off",
+  "start": 32.485,
+  "end": 32.625
+ },
+ {
+  "text": "this",
+  "start": 32.671,
+  "end": 32.81
+ },
+ {
+  "text": "number.",
+  "start": 32.868,
+  "end": 33.217
+ },
+ {
+  "text": "A",
+  "start": 33.472,
+  "end": 33.53
+ },
+ {
+  "text": "four-hundred-thousand-dollar",
+  "start": 33.588,
+  "end": 34.54
+ },
+ {
+  "text": "mortgage",
+  "start": 34.587,
+  "end": 34.935
+ },
+ {
+  "text": "now",
+  "start": 34.981,
+  "end": 35.121
+ },
+ {
+  "text": "costs",
+  "start": 35.179,
+  "end": 35.399
+ },
+ {
+  "text": "about",
+  "start": 35.434,
+  "end": 35.597
+ },
+ {
+  "text": "a",
+  "start": 35.62,
+  "end": 35.643
+ },
+ {
+  "text": "thousand",
+  "start": 35.713,
+  "end": 36.073
+ },
+ {
+  "text": "dollars",
+  "start": 36.131,
+  "end": 36.444
+ },
+ {
+  "text": "more",
+  "start": 36.502,
+  "end": 36.676
+ },
+ {
+  "text": "a",
+  "start": 36.711,
+  "end": 36.735
+ },
+ {
+  "text": "month",
+  "start": 36.781,
+  "end": 37.002
+ },
+ {
+  "text": "than",
+  "start": 37.071,
+  "end": 37.245
+ },
+ {
+  "text": "in",
+  "start": 37.303,
+  "end": 37.361
+ },
+ {
+  "text": "twenty",
+  "start": 37.408,
+  "end": 37.652
+ },
+ {
+  "text": "twenty-one.",
+  "start": 37.687,
+  "end": 38.453
+ }
+]

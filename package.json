@@ -1,0 +1,36 @@
+{
+  "name": "reels-content-studio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Vox-style informational shortform reels (9:16) built with Remotion, Higgsfield and ElevenLabs.",
+  "scripts": {
+    "studio": "remotion studio",
+    "typecheck": "tsc -p .",
+    "render": "remotion render",
+    "render:gold": "remotion render GoldReel out/gold-reel.mp4",
+    "render:bonds": "remotion render BondsReel out/bonds-reel.mp4",
+    "render:dollar": "remotion render DollarReel out/dollar-reel.mp4",
+    "render:kit": "remotion render KitDemo out/kit-demo.mp4",
+    "still": "remotion still",
+    "news:bonds": "bash scripts/news-bonds.sh",
+    "capture": "node scripts/capture-news.mjs",
+    "tts": "set -a && [ -f .env ] && . ./.env; set +a && python3 scripts/tts.py",
+    "sfx": "set -a && [ -f .env ] && . ./.env; set +a && python3 scripts/sfx.py",
+    "music": "set -a && [ -f .env ] && . ./.env; set +a && python3 scripts/music.py",
+    "fred": "python3 scripts/fred.py"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.534",
+    "@remotion/google-fonts": "4.0.534",
+    "@remotion/media": "4.0.534",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "remotion": "4.0.534"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "puppeteer-core": "^25.12.0",
+    "typescript": "^7.0.2"
+  }
+}
